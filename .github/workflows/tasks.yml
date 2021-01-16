@@ -3,7 +3,7 @@ name: Automated viswax extraction
 on:
   push:
   schedule:
-    - cron:  '*/30 * * * *'
+    - cron:  '10,25,40,55 */1 * * *'
 
 jobs:
   get_viswax:
