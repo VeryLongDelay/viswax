@@ -1,19 +1,20 @@
 {
     "75-76-378-66118165": {
-        "date": 1611101173,
+        "date": 1611102319,
         "vis_slot_1": "Law (Body 24)",
         "vis_slot_2": [
             "Body (Earth 29)",
-            "Astral (Earth 25, Fire 22)"
+            "Astral (Earth 25, Fire 22)",
+            "Blood (Earth 26, Air 27, Death 29)"
         ]
     },
     "75-76-331-66006366": {
-        "date": 1611101369,
+        "date": 1611102126,
         "vis_slot_1": "Law ( body*24 )",
         "vis_slot_2": [
             "Body (Earth 29)",
             "Astral (Earth 25)",
-            "-"
+            "Blood (Earth 26, Death 29)"
         ]
     }
 }
