@@ -9,12 +9,12 @@
         ]
     },
     "75-76-331-66006366": {
-        "date": 1611102126,
-        "vis_slot_1": "Law ( body*24 )",
+        "date": 1611187150,
+        "vis_slot_1": "-",
         "vis_slot_2": [
-            "Body (Earth 29)",
-            "Astral (Earth 25)",
-            "Blood (Earth 26, Death 29)"
+            "-",
+            "-",
+            "-"
         ]
     }
 }
