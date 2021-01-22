@@ -1,11 +1,10 @@
 {
     "75-76-378-66118165": {
-        "date": 1611187801,
-        "vis_slot_1": "Nature (Water 28)",
+        "date": 1611273898,
+        "vis_slot_1": "Steam (Chaos 28, Water 24, Fire 21)",
         "vis_slot_2": [
-            "Body",
-            "Air (Mind 29, Water 27)",
-            "Dust (Body 29, Earth 25 Air 24)"
+            "Water",
+            "Chaos"
         ]
     },
     "75-76-331-66006366": {
