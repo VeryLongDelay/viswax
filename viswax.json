@@ -1,18 +1,20 @@
 {
     "75-76-378-66118165": {
-        "date": 1611532949,
+        "date": 1611533316,
         "vis_slot_1": "Chaos",
         "vis_slot_2": [
-            "Body"
+            "Body",
+            "Body",
+            "Nature (Body 29, Fire 26)"
         ]
     },
     "75-76-331-66006366": {
-        "date": 1611532747,
-        "vis_slot_1": "-",
+        "date": 1611533042,
+        "vis_slot_1": "Chaos",
         "vis_slot_2": [
-            "-",
-            "-",
-            "-"
+            "Body",
+            "Nature (Body 29, Fire26)",
+            "Body"
         ]
     }
 }
