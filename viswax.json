@@ -9,12 +9,12 @@
         ]
     },
     "75-76-331-66006366": {
-        "date": 1615424079,
+        "date": 1615424854,
         "vis_slot_1": "Law ( water*22, death*23 )",
         "vis_slot_2": [
             "Mist (Cosmic 25, Law 19)",
-            "Death (Earth 27,  Body22, Fire26)",
-            "Cosmic (Body24, Fire23)"
+            "Cosmic (Body24, Fire23)",
+            "Death (Earth 27,  Body22, Fire26)"
         ]
     }
 }
