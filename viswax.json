@@ -9,12 +9,12 @@
         ]
     },
     "75-76-331-66006366": {
-        "date": 1615853763,
+        "date": 1615859813,
         "vis_slot_1": "Mind",
         "vis_slot_2": [
             "Air",
             "Smoke (Mind 26, Earth 23, Cosmic 29)",
-            "Lava (Air 25, Astral 24, Cosmic 23)"
+            "Lava (Air 25, Body 18, Nature 22, Astral 24, Cosmic 23)"
         ]
     }
 }
