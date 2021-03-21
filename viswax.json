@@ -9,12 +9,12 @@
         ]
     },
     "75-76-331-66006366": {
-        "date": 1616284999,
+        "date": 1616290925,
         "vis_slot_1": "Steam ( body 26, chaos 24 )",
         "vis_slot_2": [
-            "Earth",
-            "Mud (Water 26, Chaos 28, Death 23)",
-            "Mist (Mind 24, Body 21 Fire 25)"
+            "Earth (Body27, Fire28)",
+            "Mist (Mind 24, Body 21 Fire 25)",
+            "Mud (Water 26, Chaos 28, Death 23)"
         ]
     }
 }
