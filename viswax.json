@@ -9,12 +9,12 @@
         ]
     },
     "75-76-331-66006366": {
-        "date": 1617671358,
-        "vis_slot_1": "Cosmic ( Chaos*26 )",
+        "date": 1617757179,
+        "vis_slot_1": "Body",
         "vis_slot_2": [
-            "Lava (Water 18, Death 24, Fire 25)",
-            "Chaos (Water 29)",
-            "Chaos"
+            "Lava (",
+            "Steam (",
+            "Mud ("
         ]
     }
 }
