@@ -9,12 +9,12 @@
         ]
     },
     "75-76-331-66006366": {
-        "date": 1618016779,
-        "vis_slot_1": "Lava ( earth 21, nature 27, water 20, air 24 )",
+        "date": 1618112942,
+        "vis_slot_1": "Dust ( earth 24, water 23, fire 27 )",
         "vis_slot_2": [
-            "Air",
-            "Death (",
-            "Death ("
+            "Cosmic (Chaos 28)",
+            "Steam (Mind 24, Air 26, Water 21, Fire 27)",
+            "Blood (Earth 29, Air 24, Body 20)"
         ]
     }
 }
