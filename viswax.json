@@ -9,12 +9,12 @@
         ]
     },
     "75-76-331-66006366": {
-        "date": 1618621827,
-        "vis_slot_1": "Chaos",
+        "date": 1618707551,
+        "vis_slot_1": "Death",
         "vis_slot_2": [
-            "Nature (Earth 23, Cosmic29)",
-            "Dust (Nature 26, Mind 17)",
-            "Mist (Nature 28, Death 25, Air 19)"
+            "Nature (",
+            "Air",
+            "Air"
         ]
     }
 }
