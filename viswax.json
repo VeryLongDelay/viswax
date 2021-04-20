@@ -9,12 +9,12 @@
         ]
     },
     "75-76-331-66006366": {
-        "date": 1618794236,
-        "vis_slot_1": "Law ( air*25, chaos*25 )",
+        "date": 1618880356,
+        "vis_slot_1": "Mind",
         "vis_slot_2": [
-            "Dust (Water 29, Astral 27, Chaos 22)",
-            "Death (Water21, Air25)",
-            "Earth (Chaos28)"
+            "Water",
+            "Body",
+            "Law"
         ]
     }
 }
