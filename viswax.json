@@ -1,20 +1,20 @@
 {
     "75-76-378-66118165": {
-        "date": 1623892292,
-        "vis_slot_1": "Mind (Body 28, Air 27)",
+        "date": 1623978348,
+        "vis_slot_1": "Steam (Chaos 26, Mind 22)",
         "vis_slot_2": [
-            "Steam (Earth 26, Water 21)",
-            "Smoke (Water 21, Mind 19, Air 20)",
-            "Dust (Mind 29, Chaos 27, Air 25, Water 21)"
+            "Earth",
+            "Dust (Death 28)",
+            "Mist (Earth 24, Air 22)"
         ]
     },
     "75-76-331-66006366": {
-        "date": 1623891803,
-        "vis_slot_1": "Mind ( body 28, air 27 )",
+        "date": 1623980166,
+        "vis_slot_1": "Steam ( chaos 26, mind 22, astral 27 )",
         "vis_slot_2": [
-            "Steam (Earth 26, Water 21, Cosmic 29)",
-            "Smoke (Water 21, Mind 19, Law 25)",
-            "Dust (Mind 29, Chaos 27, Water 21, Air 25)"
+            "Earth",
+            "Dust (Death 28)",
+            "Mist (Earth 24, Air 22)"
         ]
     }
 }
