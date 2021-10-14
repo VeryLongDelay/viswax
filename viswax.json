@@ -9,12 +9,12 @@
         ]
     },
     "75-76-331-66006366": {
-        "date": 1634173974,
+        "date": 1634177938,
         "vis_slot_1": "Body ( earth*25, air*26 )",
         "vis_slot_2": [
             "Lava (Mind 23, Body 24, Nature 25)",
             "Steam (Earth 28, Body 22, Death 25)",
-            "Blood (Nature 26, Mind 19, Chaos 21)"
+            "Blood (Astral 28, Nature 26)"
         ]
     }
 }
