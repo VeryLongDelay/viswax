@@ -9,11 +9,11 @@
         ]
     },
     "75-76-331-66006366": {
-        "date": 1635812304,
+        "date": 1635816383,
         "vis_slot_1": "Smoke ( water 27, fire 28 )",
         "vis_slot_2": [
             "Nature (Chaos27)",
-            "Fire (Water27)",
+            "Fire (Water27, Mind 24)",
             "Body (Fire26, Mind24)"
         ]
     }
