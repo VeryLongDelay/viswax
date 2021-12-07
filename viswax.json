@@ -1,20 +1,20 @@
 {
     "75-76-378-66118165": {
-        "date": 1638750904,
-        "vis_slot_1": "Chaos",
+        "date": 1638836528,
+        "vis_slot_1": "Cosmic",
         "vis_slot_2": [
-            "Lava (Fire 28, Astral 27, Water 25)",
-            "Mind",
-            "Nature (Air 27, Body 21)"
+            "Nature (Body 28, Law 27)",
+            "Fire (Earth 25, Air 28)",
+            "Law (Astral 28, Water 27)"
         ]
     },
     "75-76-331-66006366": {
-        "date": 1638750437,
-        "vis_slot_1": "Chaos (death 29, nature 28)",
+        "date": 1638836882,
+        "vis_slot_1": "Cosmic (death*28, astral*26)",
         "vis_slot_2": [
-            "Lava (Fire 28, Astral 27, Water 25)",
-            "Mind (Law24)",
-            "Nature (Air 27, Chaos25)"
+            "Nature (Body 28, Law27)",
+            "Fire (Air 28, Earth 25, Death 27)",
+            "Law (Astral28, Water27, Body22)"
         ]
     }
 }
