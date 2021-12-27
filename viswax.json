@@ -9,12 +9,12 @@
         ]
     },
     "75-76-331-66006366": {
-        "date": 1640391274,
-        "vis_slot_1": "Steam (mind 25, nature 28, fire 27)",
+        "date": 1640585489,
+        "vis_slot_1": "Body (earth*26, air*25)",
         "vis_slot_2": [
-            "Earth (Air28, Law26)",
-            "Water Cosmic 29, Earth 22, Mind 21)",
-            "Astral (Mind 26, Death 29)"
+            "Smoke (Earth 29, Law 26, Fire 28)",
+            "Cosmic (Law 29)",
+            "Mind (Air29, Body26)"
         ]
     }
 }
