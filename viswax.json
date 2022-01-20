@@ -9,12 +9,12 @@
         ]
     },
     "75-76-331-66006366": {
-        "date": 1642638038,
+        "date": 1642646198,
         "vis_slot_1": "Mist (cosmic 26, law 20, death 24)",
         "vis_slot_2": [
             "Mud (Law 26, Mind 24, Air 21)",
-            "Lava (Fire 28, Mind 24, Body 20)",
-            "Death ("
+            "Lava (Mind 24, Fire 28, Body 20)",
+            "Death"
         ]
     }
 }
