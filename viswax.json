@@ -9,12 +9,12 @@
         ]
     },
     "75-76-331-66006366": {
-        "date": 1643762402,
-        "vis_slot_1": "Lava (water 24, fire 20)",
+        "date": 1643778828,
+        "vis_slot_1": "Lava (nature 28, water 24, fire 20)",
         "vis_slot_2": [
-            "Mist (",
-            "Mud (",
-            "Earth ("
+            "Mist (Earth 26, Chaos 27, Air 25, Water 29)",
+            "Mud (Air 26, Fire 27, Chaos 24)",
+            "Earth"
         ]
     }
 }
