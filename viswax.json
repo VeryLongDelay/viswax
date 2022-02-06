@@ -1,9 +1,9 @@
 {
     "75-76-378-66118165": {
-        "date": 1644106567,
-        "vis_slot_1": "Water (Air 23, Body 21)",
+        "date": 1644108729,
+        "vis_slot_1": "Water",
         "vis_slot_2": [
-            "Steam",
+            "Steam (Earth 27)",
             "Mud (Chaos 29)",
             "Chaos"
         ]
