@@ -1,11 +1,11 @@
 {
     "75-76-378-66118165": {
-        "date": 1644192389,
-        "vis_slot_1": "Air",
+        "date": 1644279253,
+        "vis_slot_1": "Fire",
         "vis_slot_2": [
-            "Mind",
-            "Fire (Earth 24)",
-            "Law (Body 27)",
+            "Mud (Air 28, Cosmic 25, Earth 21)",
+            "Blood (Mind 27, Law 20)",
+            "Steam (Air 29)",
             " "
         ]
     },
