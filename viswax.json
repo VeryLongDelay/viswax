@@ -9,10 +9,10 @@
         ]
     },
     "75-76-331-66006366": {
-        "date": 1651281374,
+        "date": 1651293276,
         "vis_slot_1": "Body (chaos*27, cosmic*26)",
         "vis_slot_2": [
-            "Smoke (Air 24, Death 25, Astral 28)",
+            "Smoke (Body 27, Air 24, Death 25, Astral 28)",
             "Cosmic (Law 29, Nature 28)",
             "Mind"
         ]
